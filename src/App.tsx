@@ -1,6 +1,6 @@
 import React from 'react';
-import {View} from 'react-native';
+import Routes from './routes';
 
-const App: React.FC = () => <View />;
+const App: React.FC = () => <Routes />;
 
 export default App;
